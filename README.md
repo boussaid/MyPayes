@@ -21,10 +21,10 @@ The Code is released in *opensource*, so its download is available freely :blush
 
 <div dir="rtl">برمجة بوسعيد مصطفى</div>
 ## <div dir="rtl">هذا الملحق يقوم بحساب مايلي:</div>
-<div dir="rtl">
+
 - **الأجر القاعدي**
 - **الخبرة**
 - **الضريبة 2022**
 - **المنحة الجزافية**
 - **منحة المنطقة حسب جدول 1989** - `قريبا`
-</div>
+
