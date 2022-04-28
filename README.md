@@ -11,6 +11,8 @@ Work progress: ![Progress](https://progress-bar.dev/100/?title=Done)
 
 ## Code Features
 The Code is released in *opensource*, so its download is available freely :blush: .
+*Saler de Base*
+*IEP*
 
 # <div dir="rtl">فرموورك لحساب نظام الأجور الجزائري لمستخدمي السي شارب</div>
 
