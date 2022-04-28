@@ -20,7 +20,9 @@ The Code is released in *opensource*, so its download is available freely :blush
 # <div dir="rtl">فرموورك لحساب نظام الأجور الجزائري لمستخدمي السي شارب</div>
 
 <div dir="rtl">برمجة بوسعيد مصطفى</div>
-## هذا الملحق يقوم بحساب مايلي:
+
+## <div dir="rtl">هذا الملحق يقوم بحساب مايلي</div>
+
 
 - **الأجر القاعدي**
 - **الخبرة**
