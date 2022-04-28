@@ -11,10 +11,11 @@ Work progress: ![Progress](https://progress-bar.dev/100/?title=Done)
 
 ## Code Features
 The Code is released in *opensource*, so its download is available freely :blush: .<br />
-- **Saler de Base** -
-- **IEP** -
-- **IRG 2022** -
-- **IFC** -
+- **Saler de Base**
+- **IEP**
+- **IRG 2022**
+- **IFC**
+- **Prime Zone 1989** - `SOON`
 
 # <div dir="rtl">فرموورك لحساب نظام الأجور الجزائري لمستخدمي السي شارب</div>
 
