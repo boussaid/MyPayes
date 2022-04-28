@@ -81,7 +81,7 @@ namespace MyPayes
                 switch (TypeIRG)
                 {
                     case 1: //---->Normal
-                        if (Soumis > 30000 & Soumis <= 35000) { Irg = Math.Round(Irg * 137 / 51 - 27925 / 8, 1); }
+                        if (Soumis > 30000 & Soumis <= 35000) { Irg = Math.Round(Irg * (137 / 51) - (27925 / 8), 1); }
                         break;
                     case 2: //---->Handicape
                         if (Soumis < 42500) { Irg = Math.Round(Irg * 93 / 61 - 81213 / 41, 1); }
@@ -93,6 +93,24 @@ namespace MyPayes
             }
             return Irg;
         }
-  
+        //Prime IFC
+        public float IFC(int Categori)
+        {
+            float Prime = Categori switch
+            {
+                1 => 7700,
+                2 => 7400,
+                3 => 6900,
+                4 => 6400,
+                5 => 5700,
+                6 => 5000,
+                7 => 3800,
+                8 => 3800,
+                9 => 3100,
+                10 => 3100,
+                _ => 1500,
+            };
+            return Prime;
+        }
     }
 }
